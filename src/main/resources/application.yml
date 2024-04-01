@@ -6,7 +6,7 @@ spring:
     username: sa
     password:
     driver-class-name: org.h2.Driver
-    platform: h2
+    platform: h3
  
   # enable H2 web console and set url for web console
   # http://localhost:8080/console
